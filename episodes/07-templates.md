@@ -2,22 +2,25 @@
 title: GitLab-Vorlagen
 teaching: 0
 exercises: 0
-questions:
-- Where can I find pre-built projects/themes for my site?
-objectives:
-- Find and fork pre-existing templates to determine the technologies behind a project
-  and the styles of the deriving website
-keypoints:
-- You can find many pre-existing templates for sites on the Internet
-- You can find the presented themes for sites in our local GitLab
-- You can avoid duplicated effort by basing new layouts on previous ones
 ---
 
+::::::::::::::::::::::::::::::::::::::: objectives
+
+- Find and fork pre-existing templates to determine the technologies behind a project and the styles of the deriving website
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: questions
+
+- Where can I find pre-built projects/themes for my site?
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Bio-IT-Vorlagen
 
 Die Vorlagen, die wir gemeinsam entwickelt haben, sind in unserer GitLab-Plattform
 verfügbar:
+
 - [Plain HTML template](https://git.embl.de/grp-bio-it/template_pages_html)
 - [Jekyll-Vorlage](https://git.embl.de/grp-bio-it/template-pages-jekyll)
 - [Sphinx-Vorlage](https://git.embl.de/grp-bio-it/template-pages-sphinx)
@@ -25,13 +28,13 @@ verfügbar:
 
 Sie könnten im Vergleich zu dem, was wir in dieser Lektion durchgenommen haben, leicht
 angereichert sein, zum Beispiel enthält die einfache HTML-Vorlage auch eine
-`.css`-Datei, aber sie sind absichtlich minimal gehalten. Wenn Sie sie als Basis für Ihr
+`.css`\-Datei, aber sie sind absichtlich minimal gehalten. Wenn Sie sie als Basis für Ihr
 eigenes Projekt verwenden wollen, sollten Sie sie **aufspalten**. Wenn Sie dies tun, um
 Ihr eigenes Projekt zu entwickeln und nicht, um zur Vorlage selbst beizutragen, sollten
 Sie als nächstes **die Fork-Beziehung** aufheben. Lassen Sie uns den Prozess gemeinsam
 durchgehen.
 
-![ein Repository über die Schaltfläche Fork forken](../fig/template-pages-fork.png)
+![](fig/template-pages-fork.png){alt='ein Repository über die Schaltfläche Fork forken'}
 
 Forken Sie ein Projekt, indem Sie auf die Schaltfläche "Fork" auf der rechten Seite des
 Projekttitels klicken. Daraufhin öffnet sich ein Menü (siehe unten), das dem Menü, das
@@ -40,19 +43,19 @@ entscheiden, ob Ihr Projekt privat bleiben soll, und den Titel und die Beschreib
 bearbeiten. Sie können es auch in die entsprechende Gruppe/den entsprechenden Namensraum
 einordnen.
 
-![das fork-Projektmenü](../fig/fork-project-menu.png)
+![](fig/fork-project-menu.png){alt='das fork-Projektmenü'}
 
 Sobald Sie fertig sind, entfernen Sie bitte die Fork-Beziehung. Sie können die
 Projekteinstellungen im linken Menü auf der Projektseite bearbeiten, folgen Sie
 `Settings > General > Advanced` und scrollen Sie dann nach unten zur Karte "Remove fork
 relationship".
 
-![remove fork relationship](../fig/advanced-settings.png)
+![](fig/advanced-settings.png){alt='remove fork relationship'}
 
 Sobald dies erledigt ist, können Sie Ihr Repository lokal klonen und mit der Bearbeitung
 der Vorlage beginnen. Wenn Sie eine Zusammenfassung über Klonen, Forking, Pushing und
 Pulling in Git benötigen, lesen Sie bitte [diese Lektion]
-(https://swcarpentry.github.io/git-novice/) von The Carpentries.
+(<https://swcarpentry.github.io/git-novice/>) von The Carpentries.
 
 ## Weitere Vorlagen
 
@@ -62,6 +65,7 @@ die auf verschiedenen Technologien basieren. Auch in diesen Fällen ist es eine 
 Praxis, die Fork-Beziehung zu entfernen, wenn Ihr Ziel darin besteht, die Vorlage für
 die Entwicklung Ihrer eigenen Website zu verwenden und nicht, zur Vorlage selbst
 beizutragen. Einige Beispiele für Vorlagen, die Sie in diesem Repository finden, sind:
+
 - [**courseware-template**](https://gitlab.com/pages/courseware-template), eine
   Jekyll-basierte Vorlage für eine Kurs-Website. Sie können es
   [hier](https://courseware-as-code.gitlab.io/courseware-tutorial/) in Aktion sehen. Es
@@ -80,5 +84,14 @@ den bestehenden als auch zu neuen, die für Ihre Anwendungsfälle geeignet sein 
 Schauen Sie sich schließlich das nächste (Bonus-)Kapitel an, um zu erfahren, wie man mit
 Fehlern in der Pipeline-Ausführung umgeht, um eventuelle CI/CD-Fehler beheben zu können!
 
-{% include links.md %}
+
+
+:::::::::::::::::::::::::::::::::::::::: keypoints
+
+- You can find many pre-existing templates for sites on the Internet
+- You can find the presented themes for sites in our local GitLab
+- You can avoid duplicated effort by basing new layouts on previous ones
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
 
