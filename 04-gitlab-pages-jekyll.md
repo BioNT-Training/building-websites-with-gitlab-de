@@ -6,13 +6,13 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Publish Markdown files as HTML on the web with GitHub Pages
+- Veröffentlichen Sie Markdown-Dateien als HTML im Internet mit GitHub Pages.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- How do I publish web pages through GitLab and Jekyll?
+- Wie veröffentliche ich Webseiten über GitLab und Jekyll?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -454,8 +454,7 @@ Vorlage für eine auf GitLab und Jekyll basierende Website.
 
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
-
-- Through Jekyll, GitLab serves pages are generated from `.md` files
+- Über Jekyll werden von GitLab Seiten aus `.md`-Dateien generiert.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
