@@ -6,13 +6,14 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- publish HTML on the web with GitLab Pages
+
+- HTML mit GitLab Pages im Internet veröffentlichen
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- How do I publish my pages via GitLab?
+- Wie veröffentliche ich meine Seiten über GitLab?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -356,7 +357,7 @@ eine auswählen, die Ihrem Geschmack entspricht, um mehr zu lernen.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- GitLab serves pages in your project according to a configuration file called `.gitlab-ci.yml`
+- GitLab stellt Seiten in Ihrem Projekt gemäß einer Konfigurationsdatei namens `.gitlab-ci.yml`
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
