@@ -6,13 +6,13 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Find and fork pre-existing templates to determine the technologies behind a project and the styles of the deriving website
+- Finden und kopieren Sie bereits vorhandene Vorlagen, um die Technologien hinter einem Projekt und die Stile der daraus abgeleiteten Website zu bestimmen.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- Where can I find pre-built projects/themes for my site?
+- Wo finde ich vorgefertigte Projekte/Themes für meine Website?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -88,9 +88,9 @@ Fehlern in der Pipeline-Ausführung umgeht, um eventuelle CI/CD-Fehler beheben z
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- You can find many pre-existing templates for sites on the Internet
-- You can find the presented themes for sites in our local GitLab
-- You can avoid duplicated effort by basing new layouts on previous ones
+- Im Internet finden Sie viele vorgefertigte Vorlagen für Websites.
+- Die vorgestellten Themen für Websites finden Sie in unserem lokalen GitLab.
+- Sie können Doppelarbeit vermeiden, indem Sie neue Layouts auf früheren Layouts aufbauen.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
