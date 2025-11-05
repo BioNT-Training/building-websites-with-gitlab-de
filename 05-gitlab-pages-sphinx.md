@@ -6,13 +6,13 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Publish reStructuredText files as HTML on the web with GitHub Pages
+- Veröffentlichen Sie reStructuredText-Dateien als HTML im Internet mit GitHub Pages.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- How do I publish web pages through GitLab and Sphinx?
+- Wie veröffentliche ich Webseiten über GitLab und Sphinx?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -237,7 +237,7 @@ Ausführung Ihrer Pipeline und prüfen Sie das Endergebnis.
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- Through Sphinx, GitLab serves pages are generated from `.rst` files
+- Über Sphinx werden von GitLab Seiten aus `.rst`-Dateien generiert.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
