@@ -6,15 +6,15 @@ exercises: 0
 
 ::::::::::::::::::::::::::::::::::::::: objectives
 
-- Explain what a static site generator does.
-- Choose the appropriate tool for your website/project.
+- Erklären Sie, was ein statischer Website-Generator macht.
+- Wählen Sie das passende Tool für Ihre Website/Ihr Projekt aus.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: questions
 
-- What is static web content?
-- Why should I use GitHub or GitLab Pages to create my website?
+- Was sind statische Webinhalte?
+- Warum sollte ich GitHub oder GitLab Pages zum Erstellen meiner Website verwenden?
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -435,9 +435,9 @@ Technologien und Vorlagen, die Sie zur Erstellung der Website verwenden, sind
 
 :::::::::::::::::::::::::::::::::::::::: keypoints
 
-- A static site generator combines page-specific content with layout elements and styling information to construct individual webpages.
-- GitHub/GitLab Pages is a good choice for people who are already familiar with Git and GitHub/GitLab.
-- This approach can be used to create a relatively small website/blog on a limited budget.
+- Ein statischer Website-Generator kombiniert seitenbezogene Inhalte mit Layout-Elementen und Stilinformationen, um einzelne Webseiten zu erstellen.
+- GitHub/GitLab Pages ist eine gute Wahl für Personen, die bereits mit Git und GitHub/GitLab vertraut sind.
+- Dieser Ansatz eignet sich für die Erstellung einer relativ kleinen Website/eines Blogs mit begrenztem Budget.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
