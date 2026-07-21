@@ -33,7 +33,7 @@ life_cycle: 'alpha'
 license: 'CC-BY 4.0'
 
 # Link to the source repository for this lesson
-source: 'https://github.com/BioNT-Training/building-websites-with-gitlab-de-old'
+source: 'https://github.com/BioNT-Training/building-websites-with-gitlab-de'
 
 # Default branch of your lesson
 branch: 'main'
